@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Álvarez-Carulla"
+    given-names: "Albert"
+    orcid: "https://orcid.org/0000-0001-5293-4487"
+    email: "hello@thealbert.dev"
+    website: "https://thealbert.dev/"
+title: "MASBstat-SuperS"
+version: 0.1.0
+date-released: 2021-10-18
+url: "https://github.com/TheAlbertDev/MASBstat"
